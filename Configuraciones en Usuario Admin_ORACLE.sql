@@ -6,7 +6,7 @@
 ------Proyecto Base de datos Sistema de Administración – Excavaciones CEHE ------
 
 
------------------Avance 1 ----------------
+-----------------Esquema Proyecto para la creación de todos los objetos de la base de datos ----------------
 
 CREATE USER Proyecto IDENTIFIED BY "Basededatos1.";
 GRANT CONNECT TO Proyecto;
